@@ -7,3 +7,8 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 - Mejora la movilidad.
 - Reduce la tensión muscular.
 - Favorece la postura.
+
+## Instrucciones
+1. Realiza estiramientos dinámicos al inicio del entrenamiento.
+2. Incluye estiramientos estáticos al finalizar tus rutinas.
+3. Mantén cada estiramiento durante 20-30 segundos.
