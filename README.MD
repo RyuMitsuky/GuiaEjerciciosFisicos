@@ -34,3 +34,7 @@ Al final, todas las ramas fueron unidas a la rama principal (`main` o `master`),
 ---
 
 Esperamos que esta guia te sea util y te motive a moverte y cuidar tu cuerpo todos los dias.
+
+
+Juan esteban velandia beltran Cc.1005330936
+DANTE!
