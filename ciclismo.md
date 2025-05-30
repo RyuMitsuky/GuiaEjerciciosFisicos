@@ -12,3 +12,7 @@ El ciclismo es una actividad cardiovascular que también fortalece las piernas y
 1. Realiza un calentamiento suave durante 5-10 minutos.
 2. Pedalea a ritmo constante o realiza intervalos según tu objetivo.
 3. Finaliza con pedaleo suave y estiramientos.
+
+## Consejos
+- Ajusta bien el asiento y el manillar.
+- Usa casco y ropa adecuada.
