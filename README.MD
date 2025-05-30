@@ -20,7 +20,7 @@ Al final, todas las ramas fueron unidas a la rama principal (`main` o `master`),
 
 ## Tipos de Ejercicio
 
-- [Ejercicio Cardio](ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
+- [Cardio](ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Fuerza](ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Flexibilidad](ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
 - [Ejercicio de Entrenamiento Funcional](ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
