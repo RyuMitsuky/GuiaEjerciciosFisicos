@@ -12,3 +12,7 @@ Los ejercicios de fuerza se enfocan en el desarrollo muscular mediante la resist
 1. Realiza un calentamiento previo de 5-10 minutos.
 2. Ejecuta rutinas con pesas, bandas o el propio peso corporal (ej. sentadillas, flexiones).
 3. Descansa entre series y finaliza con estiramientos.
+
+## Consejos
+- Mantén una postura correcta para evitar lesiones.
+- Progresivamente aumenta la carga y la dificultad.
