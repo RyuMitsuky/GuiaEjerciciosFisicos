@@ -23,7 +23,7 @@ Al final, todas las ramas fueron unidas a la rama principal (`main` o `master`),
 - [Cardio](Ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Fuerza](Ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Flexibilidad](Ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
-- [Ejercicio de Entrenamiento Funcional](ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
+- [Ejercicio de Entrenamiento Funcional](ejercicios/entrenamiento_f.md): Mejora la fuerza en movimientos cotidianos.
 - [Ejercicio de Yoga](Ejercicios/yoga.md): Fomenta la relajacion y la flexibilidad.
 - [Ejercicio de Pilates](Ejercicios/pilates.md): Fortalece el nucleo y mejora la postura.
 - [Ejercicio de Ciclismo](Ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
