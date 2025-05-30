@@ -12,3 +12,7 @@ El yoga es una práctica milenaria que combina posturas físicas, respiración y
 1. Empieza con respiración consciente.
 2. Realiza una secuencia de posturas (asanas) adaptadas a tu nivel.
 3. Finaliza con una relajación profunda (Savasana).
+
+## Consejos
+- Practica con regularidad.
+- Escucha a tu cuerpo y no te sobreexijas.
