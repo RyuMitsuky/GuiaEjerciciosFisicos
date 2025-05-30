@@ -15,4 +15,5 @@ Los ejercicios de fuerza se enfocan en el desarrollo muscular mediante la resist
 
 ## Consejos
 - Mantén una postura correcta para evitar lesiones.
-- Progresivamente aumenta la carga y la dificultad.
+- Progresivamente aumenta la carga y la dificultad
+
