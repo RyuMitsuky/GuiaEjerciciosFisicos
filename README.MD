@@ -21,15 +21,15 @@ Al final, todas las ramas fueron unidas a la rama principal (`main` o `master`),
 ## Tipos de Ejercicio
 
 - [Cardio](Ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
-- [Ejercicio de Fuerza](ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
-- [Ejercicio de Flexibilidad](ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
+- [Ejercicio de Fuerza](Ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
+- [Ejercicio de Flexibilidad](Ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
 - [Ejercicio de Entrenamiento Funcional](ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
-- [Ejercicio de Yoga](ejercicios/yoga.md): Fomenta la relajacion y la flexibilidad.
-- [Ejercicio de Pilates](ejercicios/pilates.md): Fortalece el nucleo y mejora la postura.
-- [Ejercicio de Ciclismo](ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
-- [Ejercicio de Natacion](ejercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
-- [Ejercicio de Boxeo](ejercicios/boxeo.md): Mejora la coordinacion y la resistencia.
-- [Ejercicio de CrossFit](ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
+- [Ejercicio de Yoga](Ejercicios/yoga.md): Fomenta la relajacion y la flexibilidad.
+- [Ejercicio de Pilates](Ejercicios/pilates.md): Fortalece el nucleo y mejora la postura.
+- [Ejercicio de Ciclismo](Ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
+- [Ejercicio de Natacion](Ejercicios/natacion.md): Trabaja todos los grupos musculares de manera suave.
+- [Ejercicio de Boxeo](Ejercicios/boxeo.md): Mejora la coordinacion y la resistencia.
+- [Ejercicio de CrossFit](Ejercicios/crossfit.md): Entrenamiento intensivo y funcional.
 
 ---
 
